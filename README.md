@@ -25,15 +25,6 @@ This repository contains my **Sticky Blog Layout** assignment for the **Summer S
 
 - `index.html` — Blog content.
 - `style.css` — Styling with CSS Grid & sticky sidebar.
-- `README.md` — This file.
-
----
-
-## 🧩 How To Use
-
-- Clone/download the repo.
-- Open `index.html` in your browser.
-- Scroll and test sidebar links — sticky works!
 
 ---
 
